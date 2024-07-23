@@ -1,0 +1,19 @@
+Found 4484 images belonging to 8 classes.
+
+[INFO] accuracy: 99.71%
+[INFO] Loss:  0.19733524322509766
+Classification Report
+                              precision    recall  f1-score   support
+
+       bercak_cokelat_ringan       1.00      0.99      0.99       644
+       bercak_cokelat_sedang       0.99      0.98      0.98       409
+        bercak_cokelat_berat       0.99      1.00      0.99       686
+bercak_cokelat_sempit_ringan       1.00      0.98      0.99       456
+bercak_cokelat_sempit_sedang       0.98      0.99      0.99       591
+ bercak_cokelat_sempit_berat       0.99      0.99      0.99       710
+               penyakit_lain       1.00      1.00      1.00       656
+                       sehat       1.00      1.00      1.00       332
+
+                    accuracy                           0.99      4484
+                   macro avg       0.99      0.99      0.99      4484
+                weighted avg       0.99      0.99      0.99      4484
